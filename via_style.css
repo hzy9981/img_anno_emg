@@ -36,7 +36,7 @@
 
         .navbar li a, .drop_menu_item {
             display: inline-block;
-            color: white;
+            color: black;
             padding: 0.65em 1.2em;
             text-decoration: none;
         }
@@ -60,7 +60,7 @@
     }
 
         .navbar .dropdown-content a {
-            color: #ffffff;
+            color: black;
             padding: 0.4em 0.6em;
             text-decoration: none;
             display: block;
@@ -71,7 +71,7 @@
 
             .navbar .dropdown-content a:hover {
                 background-color: #FFC000;
-                color: #ffff00;
+                color: black;
             }
 
     .navbar .dropdown:hover .dropdown-content {
@@ -94,12 +94,12 @@
         font-size: medium;
         float: left;
         padding: 0.65em 0.3em;
-        color: white;
+        color: black;
     }
 
         .toolbar li:hover {
             background-color: #FFC000;
-            color: red;
+            color: black;
             cursor: pointer;
         }
 
@@ -158,14 +158,14 @@
     background-color: #00a9cf;
     width: 10px;
     height: 25px;
-    color: white;
+    color: black;
     padding: 0.2em;
     border-radius: 0px 5px 5px 0px;
     font-size: large;
 }
 
     #leftsidebar_collapse_button:hover {
-        color: red;
+        color: white;
         cursor: pointer;
     }
 
@@ -271,7 +271,7 @@ ul.region_shape {
     line-height: 3em;
     width: 100%;
     background-color: #00a9cf;
-    color: #ffff00;
+    color: black;
     font-size: small;
     text-align: center;
     white-space: nowrap;
