@@ -42,7 +42,7 @@
         }
 
             .navbar li a:hover, .dropdown:hover {
-                background-color: #999999;
+                background-color: #FFC000;
                 cursor: pointer;
             }
 
@@ -53,7 +53,7 @@
     .navbar .dropdown-content {
         display: none;
         position: absolute;
-        background-color: #333333;
+        background-color: #00a9cf;
         min-width: 120px;
         border: 1px solid #ffffff;
         font-size: small;
@@ -65,12 +65,12 @@
             text-decoration: none;
             display: block;
             text-align: left;
-            background-color: #333333;
+            background-color: #00a9cf;
             float: none;
         }
 
             .navbar .dropdown-content a:hover {
-                background-color: #000000;
+                background-color: #FFC000;
                 color: #ffff00;
             }
 
@@ -98,7 +98,7 @@
     }
 
         .toolbar li:hover {
-            background-color: #333333;
+            background-color: #FFC000;
             color: red;
             cursor: pointer;
         }
