@@ -13,7 +13,7 @@
     display: block;
     font-size: medium;
     background-color: #00a9cf;
-    color: white;
+    color: black;
     z-index: 10;
     margin: 0;
     padding: 0;
@@ -155,7 +155,7 @@
 }
 
 #leftsidebar_collapse_button {
-    background-color: black;
+    background-color: #00a9cf;
     width: 10px;
     height: 25px;
     color: white;
@@ -270,7 +270,7 @@ ul.region_shape {
     bottom: 0px;
     line-height: 3em;
     width: 100%;
-    background-color: #000000;
+    background-color: #00a9cf;
     color: #ffff00;
     font-size: small;
     text-align: center;
